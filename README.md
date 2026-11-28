@@ -2,6 +2,7 @@
 
 <img width="2560" height="1440" alt="asa2411" src="https://github.com/user-attachments/assets/1e6b8608-181c-47b9-b428-10dc3522a4a6" />
 
+Thumbnail: [Max](https://x.com/MaximaMuchacho) 
 
 ## What does this multiplayer mod do?
 
