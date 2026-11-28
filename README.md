@@ -1,7 +1,7 @@
 # BS2-Multiplayer Patch
 
+<img width="2560" height="1440" alt="asa2411" src="https://github.com/user-attachments/assets/1e6b8608-181c-47b9-b428-10dc3522a4a6" />
 
-<img width="792" height="264" alt="whydidyoumakemesearchyou" src="https://github.com/user-attachments/assets/3a8afa46-8ac8-49ae-8373-433e838a2f0c" />
 
 ## What does this multiplayer mod do?
 
@@ -32,6 +32,7 @@ only the host can do dialogue and events, friends just follow along
 
 ## How to connect to friends
 
+<img width="792" height="264" alt="whydidyoumakemesearchyou" src="https://github.com/user-attachments/assets/3a8afa46-8ac8-49ae-8373-433e838a2f0c" />
 
 1. download BS Multiplayer Patcher.exe from releases (you DONT need python)
 2. open it, check the game folder is right
@@ -45,6 +46,7 @@ FRIENDS:
 - pick "join a party"
 - paste the host's code into "host address" and press start
 - wait a few seconds, you should pop into their game!
+
 
 your code gets sent to the host by itself now. if it doesnt work after a minute, copy YOUR code and send it to the host, then the host pastes it into "guest code" and presses add
 
